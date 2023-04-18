@@ -21,7 +21,7 @@
 ### 🔥 News
 - *2023.02*: 我的开源项目获得了超过10个star!⭐⭐[T-Robot](https://github.com/tianci8/T-Robot)
 - *2023.01*: 我开源了一个移动机器人项目——[T-Robot](https://github.com/tianci8/T-Robot)
-- *2022.09*: 我的一篇论文进入ESI TOP 1%(Highly Cited Papaers)——[TIE](https://ieeexplore.ieee.org/document/9345364)
+- *2022.09*: 我的一篇论文进入ESI TOP 1% (Highly Cited Papaers)——[TIE](https://ieeexplore.ieee.org/document/9345364)
 - *2022.08*: 我做了一个关于Micro-ROS的报告——[micro-ROS：赋能嵌入式机器人系统](https://www.koushare.com/video/videodetail/34939)
 
 ### 📝 Publications 
