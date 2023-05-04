@@ -25,6 +25,6 @@
 - *2022.08*: 我做了一个关于Micro-ROS的报告——[micro-ROS：赋能嵌入式机器人系统](https://www.koushare.com/video/videodetail/34939)
 
 ### 📝 Publications 
-- ``TIE`` [A Novel 3-DOF Force Sensing Microneedle With Integrated Fiber Bragg Grating for Microsurgery](https://ieeexplore.ieee.org/document/9345364), **Tianci Zhang**, Baojun Chen, Xu Tan, Siyang Zuo
+- ``TIE`` [A Novel 3-DOF Force Sensing Microneedle With Integrated Fiber Bragg Grating for Microsurgery](https://ieeexplore.ieee.org/document/9345364), **Tianci Zhang**, Baojun Chen, Siyang Zuo
 - ``ABME`` [Hand-Held Instrument with Integrated Parallel Mechanism for Active Tremor Compensation During Microsurgery](https://link.springer.com/article/10.1007/s10439-019-02358-2), **Tianci Zhang**, Lun Gong, Shuxin Wang, Siyang Zuo
 - ``JMR`` [Miniature Continuum Manipulator With Three Degrees-of-Freedom Force Sensing for Retinal Microsurgery](https://asmedigitalcollection.asme.org/mechanismsrobotics/article-abstract/13/4/041002/1096938/Miniature-Continuum-Manipulator-With-Three-Degrees), **Tianci Zhang**, Zhongyuan Ping, Siyang Zuo
